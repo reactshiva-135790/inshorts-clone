@@ -12,7 +12,7 @@ const Footer = () => {
       </span>
       <hr style={{ width: "90%" }} />
       <div className="iconContainer">
-        <a href="https://www.instagram.com/roadsidecoder/" target="__blank">
+        <a href="#" target="__blank">
           <i className="fab fa-instagram-square fa-2x"></i>
         </a>
         <a href="#" target="__blank">
